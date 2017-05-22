@@ -550,3 +550,9 @@ div#maincontent {
 #contactForm {
   background-color: white;
 }
+.project_detail{
+  text-align: left;
+}
+.project_detail > ul > li, .project_detail p, .item-details{
+  font-size: 18px;
+}
